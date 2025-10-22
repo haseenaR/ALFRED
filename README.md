@@ -60,30 +60,30 @@ Parquet format can be easily processed by most programming languages.
 
 ### Q: Can you provide an example dataset for the SNP rs4653002 and population sample Yoruba, HGDP-CEPH
 
-Population Name: Yoruba
-PopulationUID: PO000036J
-Sample Name: Yoruba, HGDP-CEPH
-SampleUID: SA001468T
-NumberOfChrom: 50
-Locus Symbol: A3GALT2P
-LocusUID: LO362836C
-Site Name: rs4653002
-SiteUID: SI424900T
-Typed Sample: 48
-Allele Symbol: C
-Allele Frequency: 0.85
+• Population Name: Yoruba
+• PopulationUID: PO000036J
+• Sample Name: Yoruba, HGDP-CEPH
+• SampleUID: SA001468T
+• NumberOfChrom: 50
+• Locus Symbol: A3GALT2P
+• LocusUID: LO362836C
+• Site Name: rs4653002
+• SiteUID: SI424900T
+• Typed Sample: 48
+• Allele Symbol: C
+• Allele Frequency: 0.85
 
-Population Name: Yoruba
-PopulationUID: PO000036J
-Sample Name: Yoruba, HGDP-CEPH
-SampleUID: SA001468T
-NumberOfChrom: 50
-Locus Symbol: A3GALT2P
-LocusUID: LO362836C
-Site Name: rs4653002
-SiteUID: SI424900T
-Typed Sample: 48
-Allele Symbol: T
-Allele Frequency: 0.15
+• Population Name: Yoruba
+• PopulationUID: PO000036J
+• Sample Name: Yoruba, HGDP-CEPH
+• SampleUID: SA001468T
+• NumberOfChrom: 50
+• Locus Symbol: A3GALT2P
+• LocusUID: LO362836C
+• Site Name: rs4653002
+• SiteUID: SI424900T
+• Typed Sample: 48
+• Allele Symbol: T
+• Allele Frequency: 0.15
 
 
