@@ -47,18 +47,18 @@ Changes in allele frequencies over time can reveal natural selection, genetic dr
 
 - The discovery of the APOE ε4 allele as a risk factor for Alzheimer’s disease was based in part on differences in allele frequencies between affected individuals and controls.
 
-**Tutorial**
-###Q: What data formats are present in your dataset? 
+### Tutorial
+### Q: What data formats are present in your dataset? 
 Data can be obtained in tab-delimited allele frequency tables per SNP compressed to parquet.
 
-###Q: What kinds of data are stored using these formats? 
+### Q: What kinds of data are stored using these formats? 
 Allele frequency tables will contain Population name (text), PopulationUID(text), Sample name(text), Sample UID(text), NumberOfChrom (integer) Locus name(text), LocusUID(text), Site name(text), SiteUID(text), Typed Sample (integer), Allele symbol(text), allele frequency (float).
 
-###Q: Can you give any advice for how you work with these data formats?
+### Q: Can you give any advice for how you work with these data formats?
 
 Parquet format can be easily processed by most programming languages.
 
-###Q: Can you provide an example dataset for the SNP rs4653002 and population sample Yoruba, HGDP-CEPH
+### Q: Can you provide an example dataset for the SNP rs4653002 and population sample Yoruba, HGDP-CEPH
 
 Population Name: Yoruba
 PopulationUID: PO000036J
